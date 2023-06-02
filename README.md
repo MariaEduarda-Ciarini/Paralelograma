@@ -1,3 +1,1 @@
-# Calculo-de-Um-Paralelograma
-básico
-veja.
+# Calculo de Paralelograma
